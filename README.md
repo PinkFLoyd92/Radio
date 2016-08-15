@@ -11,6 +11,7 @@ configure the GOPATH -> environment variable.
 *  go get github.com/nats-io/gnatsd
 *  go get github.com/emirpasic/gods/lists/doublylinkedlist
 *  sudo pacman -S mplayer mp3info --- sudo apt-get install mplayer mp3info
+*  sudo pacman -S mp3splt
 *  source with the bashrc or zshrc contents...
 *  Check that you can run gnatsd
 *  Start nats server using gnatsd -DV (DV flags help to show a nice log of the nats clients' actions)
